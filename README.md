@@ -2,16 +2,19 @@ This project implements a microservice that allows users to perform the followin
 1.	Calculate the total weight moved for a workout session.
 2.	Convert weights between pounds and kilograms.
 3.	Track strength progress by comparing the current weight lifted to an initial weight.
+
 How to Run the Microservice
 Setup
 1.	Clone the Repository: Download or clone the repository to your local machine.
 2.	Install Dependencies: Install the required packages by running:
 1.	Flask: pip install Flask
 2.	requests: pip install requests
+
 Running the Flask Server
 Start the Flask microservice by executing the following command:
 python Weight_Calculator.py
 After running this command, you should see output indicating that the server is running on http://127.0.0.1:5000/.
+
 Making Requests to the Microservice
 Test Program: Making Requests
 Your test program will need to make three requests to the microservice:
