@@ -7,9 +7,8 @@ How to Run the Microservice
 Setup
 1.	Clone the Repository: Download or clone the repository to your local machine.
 2.	Install Dependencies: Install the required packages by running:
-
-   1.	Flask: pip install Flask
-   2.	requests: pip install requests
+3.	   Flask: pip install Flask
+4.      requests: pip install requests
    
 Running the Flask Server
 Start the Flask microservice by executing the following command:
